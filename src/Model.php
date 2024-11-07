@@ -82,4 +82,3 @@ class Model extends EloquentModel
         return $this->registerGlobalScopes(parent::newModelQuery());
     }
 }
-// teste
