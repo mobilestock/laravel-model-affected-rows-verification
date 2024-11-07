@@ -15,7 +15,7 @@ class Model extends EloquentModel
 {
     /**
      * Perform a model update operation.
-     * Obs.: Parte do código foi copiado do laravel
+     * Obs.: Parte do código foi copiado do laravel.
      *
      * @param  Builder  $query
      * @return bool
@@ -60,7 +60,7 @@ class Model extends EloquentModel
 
     /**
      * Perform the actual delete query on this model instance.
-     * Obs.: Parte do código foi copiado do laravel
+     * Obs.: Parte do código foi copiado do laravel.
      *
      * @return void
      */
