@@ -1,6 +1,6 @@
 <?php
 
-namespace MobileStock\Laravel\Model\AffectedRowsVerification\Exception;
+namespace MobileStock\Laravel\Model\AffectedRowsVerification;
 
 use Exception;
 
